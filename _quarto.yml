@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: docs
+  render: 
+    - "*.qmd"
+
+lang: ja
+
+website:
+  title: "国際政治経済I@学習院2026"
+  page-footer: 
+    right: "@2026 Junpei Suzuki"
+  sidebar:
+    style: floating
+    search: true
+    collapse-level: 2
+    contents:
+      - text: "シラバス"
+        href: 00_syllabus.qmd
+      - text: ---
+      - text: "01/はじめに"
+        href: 01_intro.qmd
+      - section: パラダイムと歴史
+        contents: 
+          - text: "02/国際政治経済学のパラダイム"
+            href: 02_paradigm.qmd
+          - text: "03/主権国家体制"
+            href: 03_sovereign.qmd
+          - text: "04/パックス・ブリタニカと世界大戦"
+            href: 04_pax_britannica.qmd
+      - section: 貿易
+      - section: 国際金融
+
+
+format:
+  html:
+    theme: a11y
+    grid:
+      sidebar-width: 250px
+    number-sections: false
+    toc: true
+    link-external-newwindow: true
+
+freeze: auto

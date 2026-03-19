@@ -1,0 +1,41 @@
+{
+  "index.qmd": {
+    "index.html": "bafa7918"
+  },
+  "00-syllabus.qmd": {
+    "00-syllabus.html": "87717eae"
+  },
+  "01-intro.qmd": {
+    "01-intro.html": "18ad90c1"
+  },
+  "about.qmd": {
+    "about.html": "00661013"
+  },
+  "00_syllabus.qmd": {
+    "00_syllabus.html": "fb0ede60"
+  },
+  "01_intro.qmd": {
+    "01_intro.html": "8502243f"
+  },
+  "01_intro_slide.qmd": {
+    "01_intro_slide.html": "ed78159b"
+  },
+  "02_paradigm.qmd": {
+    "02_paradigm.html": "a15ca397"
+  },
+  "02_paradigm_slide.qmd": {
+    "02_paradigm_slide.html": "839bfbbc"
+  },
+  "03_sovereign.qmd": {
+    "03_sovereign.html": "cacec87d"
+  },
+  "03_sovereign_slide.qmd": {
+    "03_sovereign_slide.html": "eaf71f6c"
+  },
+  "04_pax_britannica.qmd": {
+    "04_pax_britannica.html": "d09b9f49"
+  },
+  "04_pax_britannica_slide.qmd": {
+    "04_pax_britannica_slide.html": "b1d612a8"
+  }
+}

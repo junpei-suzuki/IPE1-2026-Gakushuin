@@ -1,0 +1,7 @@
+---
+title: "01/はじめに"
+abstract: 
+  本科目の目的・計画・評価方法・諸注意を紹介し、受講の可否の判断材料を提供する。仲間と受講の動機を共有し、今後学んでいくための環境を整える。国際政治経済学とはどのような学問分野なのか理解する。
+---
+
+{{< revealjs file="01_intro_slide.html" height="900px" class="ratio ratio-4x3" full-screen-link="true">}}
