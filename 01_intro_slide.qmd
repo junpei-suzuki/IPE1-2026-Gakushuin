@@ -40,7 +40,7 @@ metadata-files:
 ::: {.column width=25%}
 ![](figs/portrait_ghibli_closeup.png)
 
- - [[email]{.button}](mailto:jsuzuki@iss.u-tokyo.ac.jp)
+ - [[email]{.button}](mailto:jsuzuki@komazawa-u.ac.jp)
  - [[webpage]{.button}](https://junpei-suzuki.github.io)
  - [[researchmap]{.button}](https://researchmap.jp/junpeisuzuki-ps)
 :::
@@ -183,6 +183,14 @@ metadata-files:
 
 # 国際政治経済学とは何か
 
+::: {.notes}
+冒頭に問いかけ「国際政治経済学とはどのような学問だと思いますか？」→2〜3人当てる
+
+・国際的な政治経済？→「具体的にはどんなトピック？」
+
+・貿易や金融の政治？→「その通りです」
+:::
+
 ## 政治学としての IPE
 国際政治経済学は政治学の分野の一つ
 
@@ -298,3 +306,4 @@ metadata-files:
 
  - 授業資料を見直し、目標到達をセルフチェック
  - Moodle上でのリアクションペーパー入力（木曜日まで）
+    - 今回は練習なので成績評価には含めません。
