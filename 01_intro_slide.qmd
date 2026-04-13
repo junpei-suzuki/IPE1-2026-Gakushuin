@@ -24,7 +24,7 @@ metadata-files:
 1. まとめ
 
 # はじめに
-## 授業資料と最新版スライド
+## 授業資料と最新版シラバス
 ![](figs/IPE1-2026-Gakushuin-QR.png){.r-stretch .center}
 
 ## 本日の目的と到達目標
