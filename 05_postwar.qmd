@@ -1,0 +1,7 @@
+---
+title: "05/戦後国際秩序"
+abstract: 
+  戦後に成立した国際政治経済に関する協調体制はどのようなものであるのか、その基本的な特徴を理解するとともに、より現代の展開を考察する。
+---
+
+{{< revealjs file="05_postwar_slide.html" height="900px" class="ratio ratio-4x3" full-screen-link="true">}}
