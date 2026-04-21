@@ -28,6 +28,8 @@ website:
             href: 03_sovereign.qmd
           - text: "04/パックス・ブリタニカと世界大戦"
             href: 04_pax_britannica.qmd
+          - text: "05/戦後国際秩序"
+            href: 05_postwar.qmd
       - section: 貿易
       - section: 国際金融
 
