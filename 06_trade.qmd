@@ -1,0 +1,7 @@
+---
+title: "06/貿易の経済学"
+abstract: 
+  比較優位モデル、特殊要素モデル、ヘクシャー＝オリーンモデルという3つの経済学のモデルを学び、貿易が与える影響を理解する。
+---
+
+{{< revealjs file="06_trade_slide.html" height="900px" class="ratio ratio-4x3" full-screen-link="true">}}

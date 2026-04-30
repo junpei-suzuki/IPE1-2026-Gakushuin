@@ -31,6 +31,9 @@ website:
           - text: "05/戦後国際秩序"
             href: 05_postwar.qmd
       - section: 貿易
+        contents:
+          - text: "06/貿易の経済学"
+            href: 06_trade.qmd
       - section: 国際金融
 
 
