@@ -87,7 +87,7 @@ metadata-files:
 ::: {.columns}
 ::: {.column width=50%}
 ::: {.fragment .fade-in}
-**自由主義体制**
+**自由主義体制** (PB)
 
 ::: {.incremental}
 - イギリスの覇権
@@ -124,8 +124,14 @@ metadata-files:
 ## 経済成長
 ![](figs/postwar_growth.png)
 
-## 経済成長
+## 格差の縮小
 ![](figs/postwar_inequality.png)
+
+::: {.notes}
+トップ1%が占める所得の割合
+
+70年代くらいまでは
+:::
 
 # 埋め込まれた自由主義
 ::: {.notes}
@@ -134,7 +140,7 @@ metadata-files:
 目標20分
 :::
 ## 埋め込まれた自由主義
-#### (embedded liberalism)[^ruggie1982]
+#### embedded liberalism[^ruggie1982]
 ::: {.fragment .fade-in}
 戦後体制の特徴＝**自由貿易**と**国家の自律性**のバランス
 
@@ -216,8 +222,12 @@ metadata-files:
 :::
 
 ::: {.fragment .fade-in}
-→ラギー「経済を社会に再び埋め込む」＝埋め込まれた自由主義
+→埋め込まれた自由主義…「経済が社会に埋め込まれている」
 
+::: {.incremental}
+- 特に福祉国家による労働者救済
+
+:::
 :::
 
 ::: {.notes}
@@ -229,7 +239,7 @@ metadata-files:
 ## フォーディズム (Fordism)
 ::: {.columns}
 ::: {.column width=70%}
-大量生産と大量消費が好循環していく経済システム
+**大量生産**と**大量消費**が好循環していく経済システム
 
 ::: {.incremental}
 - フォード社創業者の**ヘンリー・フォード**の戦略
