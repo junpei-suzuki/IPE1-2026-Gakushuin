@@ -409,7 +409,7 @@ Q：車／米の生産が効率的なのは日中どちらですか？
 
 ::: {.fragment .fade-in}
 #### 収穫逓減 (diminishing returns)
-![](figs/diminishing_returns.png){width=80%}
+![](figs/diminishing_returns.png){width=60%}
 
 :::
 
