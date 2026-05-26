@@ -36,6 +36,8 @@ website:
             href: 06_trade.qmd
           - text: "07/保護主義の政治学"
             href: 07_protectionism.qmd
+          - text: "08/貿易交渉"
+            href: 08_bargaining.qmd
       - section: 国際金融
 
 
