@@ -38,6 +38,8 @@ website:
             href: 07_protectionism.qmd
           - text: "08/貿易交渉"
             href: 08_bargaining.qmd
+          - text: "09/GATT体制"
+            href: 09_GATT.qmd
       - section: 国際金融
 
 

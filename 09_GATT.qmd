@@ -1,0 +1,8 @@
+---
+title: "09/GATT体制"
+abstract: 
+  戦後の自由貿易体制であるGATTの歴史的展開や現状を概観するとともに、その多国間主義原則について理論的に考察する。
+---
+
+{{< revealjs file="09_GATT_slide.html" height="900px" class="ratio ratio-4x3" full-screen-link="true">}}
+
