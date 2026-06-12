@@ -1,0 +1,7 @@
+---
+title: "10/国際収支"
+abstract: 
+  国際収支とは何か概要と各項目を理解するとともに、計算方法として複式簿記を学んで自ら計算してみる。
+---
+
+{{< revealjs file="10_balance_slide.html" height="900px" class="ratio ratio-4x3" full-screen-link="true">}}

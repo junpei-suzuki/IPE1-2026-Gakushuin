@@ -41,6 +41,9 @@ website:
           - text: "09/GATT体制"
             href: 09_GATT.qmd
       - section: 国際金融
+        contents:
+          - text: "10/国際収支"
+            href: 10_balance.qmd
 
 
 format:
