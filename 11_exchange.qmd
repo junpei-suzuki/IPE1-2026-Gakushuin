@@ -1,0 +1,7 @@
+---
+title: "11/為替制度"
+abstract: 
+  固定相場制と変動相場制という2つの為替制度を学んだ上で、国際収支との関係を理解するとともに、為替制度の選択と政治体制の関係を議論する。
+---
+
+{{< revealjs file="11_exchange_slide.html" height="900px" class="ratio ratio-4x3" full-screen-link="true">}}

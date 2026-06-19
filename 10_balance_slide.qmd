@@ -6,7 +6,7 @@ modified-date: today
 
 format: 
   revealjs:
-    footer: "GATT体制"
+    footer: "国際収支"
     mermaid:
       theme: neutral
 

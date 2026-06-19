@@ -44,7 +44,8 @@ website:
         contents:
           - text: "10/国際収支"
             href: 10_balance.qmd
-
+          - text: "11/為替制度"
+            href: 11_exchange.qmd
 
 format:
   html:
