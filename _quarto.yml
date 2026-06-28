@@ -46,7 +46,8 @@ website:
             href: 10_balance.qmd
           - text: "11/為替制度"
             href: 11_exchange.qmd
-
+          - text: "12/マクロ経済政策と国際金融"
+            href: 12_trilemma.qmd
 format:
   html:
     theme: a11y

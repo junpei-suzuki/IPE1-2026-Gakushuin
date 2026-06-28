@@ -1,0 +1,7 @@
+---
+title: "12/マクロ経済政策と国際金融"
+abstract: 
+  財政政策と金融政策という2つのマクロ経済政策を学んだ上で、「国際金融のトリレンマ」の見地から、国際収支と為替制度とマクロ経済政策の三者間関係を理論的に考察する。
+---
+
+{{< revealjs file="12_trilemma_slide.html" height="900px" class="ratio ratio-4x3" full-screen-link="true">}}
